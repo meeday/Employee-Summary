@@ -1,0 +1,23 @@
+{
+  "name": "Employee-Summary",
+  "version": "1.0.0",
+  "description": "Week 10 Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meeday/Employee-Summary.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meeday/Employee-Summary/issues"
+  },
+  "homepage": "https://github.com/meeday/Employee-Summary#readme",
+  "dependencies": {
+    "inquirer": "^7.1.0"
+  }
+}

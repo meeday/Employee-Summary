@@ -1,4 +1,5 @@
 // TODO: Write code to define and export the Employee class
+// methods are the same as the test cases
 class Employee {
 
   constructor(name, id, email) {
